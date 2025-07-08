@@ -1,5 +1,5 @@
-import project1_img from '../assets/project_1.svg'
-import project2_img from '../assets/project_2.svg'
+import project1_img from '../assets/project_1.png'
+import project2_img from '../assets/project_2.jpg'
 import project3_img from '../assets/project_3.svg'
 import project4_img from '../assets/project_4.svg'
 
@@ -7,17 +7,20 @@ const mywork_data = [
     {
         w_no:1,
         w_name:"Web design",
-        w_img:project1_img
+        w_img:project1_img,
+        link:"https://nexzsofy-realtime-communication.onrender.com"
     },
     {
         w_no:2,
         w_name:"Web design",
-        w_img:project2_img
+        w_img:project2_img,
+        link:"https://github.com/nikhilpanothra/AI-Chatbot"
     },
     {
         w_no:3,
         w_name:"Web design",
-        w_img:project3_img
+        w_img:project3_img,
+        link:"https://my-portfolio-nk-verma.netlify.app/"
     },
    
 ]

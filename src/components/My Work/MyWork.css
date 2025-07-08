@@ -33,10 +33,11 @@
 }
 
 .mywork-container img {
-
+    border-radius: 10px;
     width: 100%;
     transition: 0.3s;
     cursor: pointer;
+    height: 258px;
 }
 
 .mywork-container img:hover {
