@@ -18,14 +18,14 @@ export default function About() {
                 <div className="about-right">
                     <div className="about-para">
                         <p>I am a passionate Engineering Student Who love to explore new technologies and to a get the knowledge from where i can get. My aim is to create innovation ideas and solution to the real world problems which can leads to develop the organization in the best way possible.</p>
-                        <p>I'm a React js developer with a knack for building visuallt stunning, user-friendly, and Responsive Websites.</p>
+                        <p>I'm a MERN Stack developer with a knack for building visually stunning, user-friendly, and responsive web applications.</p>
 
                     </div>
                     <div className="about-skills">
                         <div className="about-skill"><p>HTML & CSS </p><hr style={{ width: '80%' }} /> </div>
                         <div className="about-skill"><p>Javascript</p> <hr style={{ width: '70%' }} /></div>
-                        <div className="about-skill"><p>React JS</p> <hr style={{ width: '65%' }} /></div>
-                        <div className="about-skill"><p>Node Js</p><hr style={{ width: '35%' }} /></div>
+                        <div className="about-skill"><p>React JS</p> <hr style={{ width: '70%' }} /></div>
+                        <div className="about-skill"><p>Node Js</p><hr style={{ width: '70%' }} /></div>
                     </div>
                 </div>
             </div>

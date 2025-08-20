@@ -17,7 +17,7 @@ export default function Footer() {
                   
                         </div>
                     
-                    <p> I am a React js Developer from, Jammu (J&k) with 1 year of expericence. Hire me  </p>
+                    <p> I am a Mern Stack Developer from, Jammu (J&k) with 1 year of expericence. Hire me  </p>
                 </div>
                 <div className="footer-top-right">
                     <div className="footer-email-input">
